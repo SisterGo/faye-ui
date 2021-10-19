@@ -1,9 +1,13 @@
+<!--
+ * @Descripttion: 
+ * @version: 1.0.0
+ * @Author: LiuXin
+ * @Date: 2021-10-19 22:11:17
+ * @LastEditors: LiuXin
+ * @LastEditTime: 2021-10-19 23:25:01
+-->
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
     <router-view/>
   </div>
 </template>
