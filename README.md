@@ -4,10 +4,9 @@
  * @Author: LiuXin
  * @Date: 2021-10-19 22:11:35
  * @LastEditors: LiuXin
- * @LastEditTime: 2021-10-20 15:56:36
+ * @LastEditTime: 2021-10-20 16:15:53
 -->
 # faye-ui
-
 ## 快速上手
 > 介绍 通过本文你可以了解到 faye 的安装方法和基本使用姿势。
 
