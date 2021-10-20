@@ -4,9 +4,12 @@
  * @Author: LiuXin
  * @Date: 2021-10-19 22:11:35
  * @LastEditors: LiuXin
- * @LastEditTime: 2021-10-20 16:15:53
+ * @LastEditTime: 2021-10-20 17:23:35
 -->
 # faye-ui
+
+## 引用声明
+> 感谢： faye-ui 框架架构借鉴开源的 Vant ui
 ## 快速上手
 > 介绍 通过本文你可以了解到 faye 的安装方法和基本使用姿势。
 
