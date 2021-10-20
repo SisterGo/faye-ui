@@ -4,7 +4,7 @@
  * @Author: LiuXin
  * @Date: 2021-10-19 22:11:35
  * @LastEditors: LiuXin
- * @LastEditTime: 2021-10-20 15:48:58
+ * @LastEditTime: 2021-10-20 15:56:36
 -->
 # faye-ui
 
@@ -43,14 +43,14 @@ npm i babel-plugin-import -D
 ```
 
 ```
-// 接着你可以在代码中直接引入 Vant 组件
+// 接着你可以在代码中直接引入 faye-ui 组件
 // 插件会自动将代码转化为方式二中的按需引入形式
 import { Test } from 'faye-ui';
 ```
 ### 方式二 手动按需引入组件
 在不使用插件的情况下，可以手动引入需要的组件。
 ```
-import Test from 'vant/lib/test';
+import Test from 'faye-ui/lib/test';
 ```
 ### 方式三. 导入所有组件
 faye-ui 支持一次性导入所有组件，引入所有组件会增加代码包体积，因此不推荐这种做法。
